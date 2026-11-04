@@ -1,9 +1,9 @@
 {
-    "latestVersion":  "1.9.0",
-    "downloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v1.9.0/Veloura_Clinics_System_v1.9.0.zip",
-    "releaseNotes":  "الإصدار 1.9.0\n\n★ تعديل السعر والخصم لكل إجراء، وخصم على حساب المريض، بسقف يحدده المدير.\n★ إشعار للاستقبال بالمبلغ ومجال الخصم بعد إكمال الطبيب للإجراء.\n★ مخطط الأسنان ومخطط التقويم يتكيّفان مع حجم الشاشة، والمصطلحات السريرية بالإنكليزية.\n★ التقرير الشامل يعرض أداء كل طبيب وخصوماته وإجراءاته.\n★ استرجاع دخول المدير عند نسيان كلمة المرور برمز من المطوّر.\n⚠️ يُفضَّل تحديث كل الأجهزة والهاتف معاً.",
-    "sha256":  "1b0f4ed47f74f86f039dee63311602b9279d4c1b17d852952e8349401a10562f",
-    "phoneVersion":  "1.9.0",
-    "phoneDownloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v1.9.0/Veloura_Mobile_v1.9.0.apk",
-    "phoneSha256":  "3589623116eb8c720e73c53b61dd16841dd36c4e49e143a03554d5091faae51f"
+    "latestVersion":  "1.9.1",
+    "downloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v1.9.1/Veloura_Clinics_System_v1.9.1.zip",
+    "releaseNotes":  "الإصدار 1.9.1\n\n★ حصص الأطباء تُحسب من المبالغ الواصلة فعلاً (ويمكن اختيار «من قيمة العمل» من شاشة الأطباء).\n★ نسخة احتياطية كاملة: البيانات مع صور المرضى ومرفقاتهم بملف واحد.\n★ تعديل تاريخ الإجراء للمرضى القدامى (بصلاحية يمنحها المدير).\n★ تقويم أسبوعي، بطاقة QR للمريض، والتقاط صور بكاميرا الحاسوب.\n★ حسابات المختبرات وتنبيه الحالات المتأخرة، وطرق دفع جديدة.\n⚠️ يُفضَّل تحديث كل الأجهزة والهاتف معاً.",
+    "sha256":  "b727485cfbe2f7bc35437e49e31d92cb740a23dc5d42ebe0bc6feb89b6d73373",
+    "phoneVersion":  "1.9.1",
+    "phoneDownloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v1.9.1/Veloura_Mobile_v1.9.1.apk",
+    "phoneSha256":  "d54a885229738e9806b517631bbfd5b0a68efc230368a7caf0306a9837870264"
 }
