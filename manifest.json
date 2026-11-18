@@ -1,9 +1,9 @@
 {
-    "latestVersion":  "1.9.2",
-    "downloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v1.9.2/Veloura_Clinics_System_v1.9.2.zip",
-    "releaseNotes":  "الإصدار 1.9.2\n\n★ مراجعة شاملة لكل أقسام البرنامج وتطبيق الهاتف وإصلاح ما ظهر فيها.\n★ تغيير نسبة الطبيب يحفظ نسبه السابقة، والطبيب المغادر يُؤرشف بدل حذفه.\n★ الهاتف: مسح بطاقة المريض بالكاميرا مباشرة، وإضافة صور لمرفقات المريض.\n★ حساب الطبيب على الهاتف يرى دفعاته فقط، كما على الحاسوب.\n★ طابعة مفضّلة لكل جهاز، ورسائل واتساب تُرسل بالمبلغ والموعد الصحيحين.\n⚠️ يُفضَّل تحديث كل الأجهزة والهاتف معاً.",
-    "sha256":  "5d377d8718e00357d19b1080589c7026e089e8f9b1395a3841ed54ff7555d09c",
-    "phoneVersion":  "1.9.2",
-    "phoneDownloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v1.9.2/Veloura_Mobile_v1.9.2.apk",
-    "phoneSha256":  "ebb3091354bb7f48e4d5fbd6c90cdfd9d9392ab673e8908c2d791c0ed88524ee"
+    "latestVersion":  "2.0.0",
+    "downloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.0/Veloura_Clinics_System_v2.0.0.zip",
+    "releaseNotes":  "الإصدار 2.0.0 (تجريبي)\n\n★ تصميم جديد كامل للبرنامج والهاتف، فاتح وداكن.\n★ شاشات أذكى: اقتراحات وتنبيهات بكل قسم (التقويم، المختبر، الأقساط، المواعيد، الحسابات).\n★ الهاتف يوصّله إشعار حتى وهو مسكّر: النداءات، مريضك بالانتظار، والمهم بالعيادة.\n★ الفارزة كل ثلاث مراتب بحقول المبالغ وانت تكتب.\n★ سجل أخطاء بصفحة «حول» يساعد الدعم.\n\n⚠️ مهم: حدّث الحاسبة الرئيسية (الخادم) أول. الأجهزة الثانية والهواتف ما تشتغل على 2.0 لحد ما يتحدّث الرئيسي، وتكول هذا بوضوح.\nبياناتك تبقى مثل ما هي، والبرنامج ياخذ نسخة احتياطية قبل الترقية.",
+    "sha256":  "998089e14ee7a063d2a180bd9a42a6887fe60d0e08220ca781b7c4558aaea343",
+    "phoneVersion":  "2.0.0",
+    "phoneDownloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.0/Veloura_Mobile_v2.0.0.apk",
+    "phoneSha256":  "4a0299c014a74eeb65d6a2c21c06034c76557fd61dcff94a802fd00b6d3f9400"
 }
