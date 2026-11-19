@@ -1,9 +1,9 @@
 {
-    "latestVersion":  "2.0.2",
-    "downloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.2/Veloura_Clinics_System_v2.0.2.zip",
-    "releaseNotes":  "الإصدار 2.0.2 (تجريبي)\n\n★ «العمق» من المظهر: الحالي، بارز، أو 3D (بطاقات بارزة وأزرار تنضغط). كل جهاز يختار مظهره.\n★ شاشة الدخول وشاشة القفل صارت تتبع العمق المختار هي هم.\n★ القوائم الطويلة بالهاتف أخف بالتمرير.\n★ شعار ذهبي جديد، ومقدمة تعرض شعار عيادتك واسمها قبل الدخول.\n★ الهاتف: كل بيانات العيادة تنفتح بدون اتصال، وجدول مواعيد باليوم والأسبوع والشهر، ويناسب التابلت.\n\nبياناتك تبقى مثل ما هي، والبرنامج ياخذ نسخة احتياطية قبل الترقية.",
-    "sha256":  "f1c1ff29dc4804f33a0f50767b94707e3a0f32180d09601f6c1bc36873908d4b",
-    "phoneVersion":  "2.0.2",
-    "phoneDownloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.2/Veloura_Mobile_v2.0.2.apk",
-    "phoneSha256":  "872e4ce1d326bf064ab910d926e4ee07e22b59fcb32d36ad786037cc3b71dafe"
+    "latestVersion":  "2.0.3",
+    "downloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.3/Veloura_Clinics_System_v2.0.3.zip",
+    "releaseNotes":  "الإصدار 2.0.3 (تجريبي)\n\n★ تصحيح بمخطط الأسنان: الحشوة الأنسية (Mesial) والوحشية (Distal) صارت تنرسم على جهتها الصحيحة من السن، يعني الأنسي دائماً ناحية خط الوسط.\n★ نفس التصحيح بشاشة «اشرح للمريض».\n★ تحديد أكثر من سن: الإجراء ينضاف لهم سوه، بس كل سن تحدد سعره وصنف حشوته وسطحه (Mesial / Distal) بروحه، وينحفظ إجراء منفصل. الخصم يتوزع عليهم، و«تراجع» يشيل الدفعة كلها.\n★ «العمق» من المظهر: الحالي، بارز، أو 3D، وشاشة الدخول والقفل تتبعه.\n\nبياناتك تبقى مثل ما هي، والسجلات القديمة تنرسم صح وحدها بدون أي تعديل.",
+    "sha256":  "a211dd3067bda16d2cceecd4de37e9232d46af37eaeb50e427cb842da5fbaec8",
+    "phoneVersion":  "2.0.3",
+    "phoneDownloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.3/Veloura_Mobile_v2.0.3.apk",
+    "phoneSha256":  "6066e268e9c5692a1bc1dba8abfff2e20fe7394361133fc3d210b310b0790a73"
 }
