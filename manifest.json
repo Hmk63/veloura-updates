@@ -1,9 +1,9 @@
 {
-    "latestVersion":  "2.0.1",
-    "downloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.1/Veloura_Clinics_System_v2.0.1.zip",
-    "releaseNotes":  "الإصدار 2.0.1 (تجريبي)\n\n★ «العمق» من المظهر: الحالي، بارز، أو 3D (بطاقات بارزة وأزرار تنضغط). كل جهاز يختار مظهره.\n★ شعار ذهبي جديد، ومقدمة تعرض شعار عيادتك واسمها قبل الدخول.\n★ الهاتف: كل بيانات العيادة تنفتح بدون اتصال، وتعديلاتك تنطبق لما يرجع الاتصال (بعد موافقتك).\n★ الهاتف: جدول مواعيد باليوم والأسبوع والشهر، وتغيير وقت الموعد بالسحب، والنداء بالصفحة الرئيسية.\n★ الهاتف أنعم بالتمرير، ويناسب التابلت والشاشة بالعرض.\n\nبياناتك تبقى مثل ما هي، والبرنامج ياخذ نسخة احتياطية قبل الترقية.",
-    "sha256":  "d268dcb02adcd3310e5705724bb94e0f7ca4a029eb4544143d7ff5e800edda4e",
-    "phoneVersion":  "2.0.1",
-    "phoneDownloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.1/Veloura_Mobile_v2.0.1.apk",
-    "phoneSha256":  "4908e7d361945174e8740ff2243bd5e4de92096ec3073fdd11f9004581013c8f"
+    "latestVersion":  "2.0.2",
+    "downloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.2/Veloura_Clinics_System_v2.0.2.zip",
+    "releaseNotes":  "الإصدار 2.0.2 (تجريبي)\n\n★ «العمق» من المظهر: الحالي، بارز، أو 3D (بطاقات بارزة وأزرار تنضغط). كل جهاز يختار مظهره.\n★ شاشة الدخول وشاشة القفل صارت تتبع العمق المختار هي هم.\n★ القوائم الطويلة بالهاتف أخف بالتمرير.\n★ شعار ذهبي جديد، ومقدمة تعرض شعار عيادتك واسمها قبل الدخول.\n★ الهاتف: كل بيانات العيادة تنفتح بدون اتصال، وجدول مواعيد باليوم والأسبوع والشهر، ويناسب التابلت.\n\nبياناتك تبقى مثل ما هي، والبرنامج ياخذ نسخة احتياطية قبل الترقية.",
+    "sha256":  "f1c1ff29dc4804f33a0f50767b94707e3a0f32180d09601f6c1bc36873908d4b",
+    "phoneVersion":  "2.0.2",
+    "phoneDownloadUrl":  "https://github.com/Hmk63/veloura-updates/releases/download/v2.0.2/Veloura_Mobile_v2.0.2.apk",
+    "phoneSha256":  "872e4ce1d326bf064ab910d926e4ee07e22b59fcb32d36ad786037cc3b71dafe"
 }
